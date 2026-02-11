@@ -57,6 +57,7 @@ It includes authentication, protected routes, favorites, archive, and bin functi
 ---
 
 ## 📁 Project Structure
+```
 
 notesApp/
 │
@@ -80,4 +81,5 @@ notesApp/
 │
 ├── .gitignore
 └── README.md
+```
 
