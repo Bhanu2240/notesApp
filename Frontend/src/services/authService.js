@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/api/auth";
+const API_URL = "https://notesapp-backend-bkgn.onrender.com/api/auth";
 
 export const signupApi = async (email, password) => {
   const response = await fetch(`${API_URL}/signup`, {
